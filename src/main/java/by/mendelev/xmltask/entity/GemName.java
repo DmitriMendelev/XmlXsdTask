@@ -1,0 +1,6 @@
+package by.mendelev.xmltask.entity;
+
+public enum GemName {
+    AGATE, ALEXANDRITE, AMBER, AMETHYST, APATITE, CHRYSOLITE, DIAMOND, EMERALD, GARNET, MALACHITE, ONYX, PEARL, RUBY,
+    SAPPHIRE, TOPAZ, TURQUOISE
+}
